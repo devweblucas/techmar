@@ -23,3 +23,8 @@ h1{
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+img{
+    width: 1000px;
+    height: 1000px;
+}
